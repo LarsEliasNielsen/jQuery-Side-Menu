@@ -3,5 +3,5 @@
 */
 
 $(document).ready(function() {
-    
+    $('div.side-menu').animate({ left: '+=200' }, 500);
 });

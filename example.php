@@ -12,12 +12,17 @@
         <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
 
         <!-- Styles -->
-        <lin rel="stylesheet" href="css/main.style.css" />
+        <link rel="stylesheet" href="css/menu.style.css" />
 
         <!-- Scripts -->
-        <script src="js/example.jquery.js"></script>
+        <script src="js/menu.jquery.js"></script>
     </head>
     <body>
-        
+        <div class="side-menu">
+            <div class="menu-1 menu-1-1">Home</div>
+            <div class="menu-1 menu-1-2">Something</div>
+            <div class="menu-1 menu-1-3">Something else</div>
+            <div class="menu-1 menu-1-4">And this</div>
+        </div>
     </body>
 </html>
